@@ -1,0 +1,9 @@
+.idea
+*.iml
+out
+gen
+.env
+subscriptions.json
+__pycache__
+tests/token.env
+.venv
