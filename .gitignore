@@ -7,3 +7,5 @@ subscriptions.json
 __pycache__
 tests/token.env
 .venv
+token.env
+data.json
